@@ -1,0 +1,2 @@
+python it will execute line by line
+== is used for comparing
