@@ -1,2 +1,4 @@
 python it will execute line by line
 == is used for comparing
+github is used to collabrative services 
+the main usage of github is combine all parts of project from the team members
